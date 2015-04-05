@@ -55,11 +55,11 @@ public class Utility {
 
 
     static class Resposta {
-        int statusCode;
-        Header[] headers;
-        JSONObject responseJSON;
-        String responseString;
-        Throwable throwable;
+        private int statusCode;
+        private Header[] headers;
+        private JSONObject responseJSON;
+        private String responseString;
+        private Throwable throwable;
 
         Resposta(int statusCode, Header[] headers, JSONObject responseJSON, String responseString) {
             this.statusCode = statusCode;
@@ -119,24 +119,34 @@ public class Utility {
     static public void tratarOnFailure(Resposta resposta, Context context) {
         String response;
 
-        if (resposta.getResponseString().equals("")) {
-            response = resposta.getResponseJSON().toString();
-        } else {
-            response = resposta.getResponseString();
+        try {
+            if (resposta.getStatusCode() == 0) {
+                Toast.makeText(context, "Não foi possível conectar com o servidor. Verifique sua conexão com a interet", Toast.LENGTH_LONG).show();
+            } else {
+                if (resposta.getResponseString().equals("")) {
+                    response = resposta.getResponseJSON().toString();
+                } else {
+                    response = resposta.getResponseString();
+                }
+
+                if (resposta.statusCode == 404) {
+                    Toast.makeText(context, "Requested resource not found - 404 - " + response, Toast.LENGTH_LONG).show();
+                }
+                else if (resposta.statusCode == 500) {
+                    Toast.makeText(context, "Something went wrong at server end - 500 - " + response, Toast.LENGTH_LONG).show();
+                }
+                else if (resposta.statusCode == 400) {
+                    Toast.makeText(context, response.toString(), Toast.LENGTH_LONG).show();
+                }
+                else {
+                    Toast.makeText(context, "Unexpected Error occured! " + Integer.toString(resposta.statusCode) + " - " + response, Toast.LENGTH_LONG).show();
+                }
+            }
+
+        } catch(Exception e) {
+            Toast.makeText(context, "Unexpected Error occured! " + e, Toast.LENGTH_LONG).show();
         }
 
-        if (resposta.statusCode == 404) {
-            Toast.makeText(context, "Requested resource not found - 404 - " + response, Toast.LENGTH_LONG).show();
-        }
-        else if (resposta.statusCode == 500) {
-            Toast.makeText(context, "Something went wrong at server end - 500 - " + response, Toast.LENGTH_LONG).show();
-        }
-        else if (resposta.statusCode == 400) {
-            Toast.makeText(context, response.toString(), Toast.LENGTH_LONG).show();
-        }
-        else {
-            Toast.makeText(context, "Unexpected Error occured! " + Integer.toString(resposta.statusCode) + " - " + response, Toast.LENGTH_LONG).show();
-        }
     }
 
 }
