@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_chat"
+			],
+			[
+				"ti",
+				"tipo_chat"
+			],
+			[
+				"aja",
+				"ajax_options"
+			],
+			[
+				"f",
+				"f_error"
+			],
+			[
+				"a",
+				"ajax_opts"
+			],
+			[
+				"isho",
+				"ishout_client"
+			],
+			[
+				"con",
+				"contrib"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"perfil",
+				"perfil_usuario"
+			],
+			[
+				"httpr",
+				"HttpResponseRedirect"
+			],
+			[
+				"lista",
+				"lista_cargos_gerentes"
+			],
+			[
+				"projeto_",
+				"projeto_perfil"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"HttpR",
+				"HttpResponseRedirect"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"model",
+				"ModelForm"
+			],
+			[
+				"Nu",
+				"NucleoForm	class"
+			],
+			[
+				"mODE",
+				"ModelForm"
+			],
+			[
+				"cadast",
+				"cadastra_nucleo"
+			],
+			[
+				"no",
+				"novo_membro	statement"
+			],
+			[
+				"HttpRes",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"projeto",
+				"projeto_id	param"
+			],
+			[
+				"Pro",
+				"ProjetoForm	class"
+			],
+			[
+				"class",
+				"class	New Class"
+			],
+			[
+				"Model",
+				"Model	Model"
+			],
+			[
+				"mode",
+				"Model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sistema/views.py",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"django",
+				"Set Syntax: Python Django"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python Django"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"projet",
+				"Project: Save As"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"install",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si_webservice"
+	],
+	"file_history":
+	[
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/views.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/admin.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/models.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/views_chat.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/gauss-chat/chat2.0.js",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/chat.html",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/home.html",
+		"/Volumes/HDD/felipemoran/Desktop/Endereco github.yxy",
+		"/Volumes/HDD/felipemoran/Library/StickiesDatabase",
+		"/Volumes/HDD/felipemoran/Desktop/Texts/SI PS Junior - Anotacao primeira reuiniao.txt",
+		"/Volumes/HDD/felipemoran/Downloads/Browser/WhatsApp Chat_ Caronas no Geral.txt",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/escolher_chat.html",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime_deploy/anish_realtime/settings.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss-deploy/mysite/settings.py",
+		"/Volumes/HDD/felipemoran/Desktop/Chat 2.0 Deploy.txt",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/chat/templates/home.html",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/anish_realtime/settings.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/chat/templates/registration/login.html",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/anish_realtime/urls.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/chat/views.py",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/chat/login.html",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/gauss-chat/chat.js",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss/polls/views.py",
+		"/Volumes/HDD/felipemoran/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss-deploy/nodejs/chat_novo.js",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Dicas KSP.txt",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/gauss-chat/chat.js",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Gauss To-do.txt",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Deploy Node App.txt",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/mysite/settings.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/chat.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/SI PS Junior - Anotacao primeira reuiniao.txt",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/mysite/settings.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/teste_traducao.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/mysite/urls.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/views.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/teste_traducao.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/home.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/blog.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/home_empresa.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/home.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/blog.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/models.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/views.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/editar_perfil.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/management/commands/mockup.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/models.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/cadastrar_pesquisador.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/management/commands/mockup.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/editar_perfil.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/login.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss/polls/templates/agenda_laboratorio.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/agenda_laboratorio.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/visualizar_pesquisador.html.orig",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/visualizar_pesquisador.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/visualizar_empresa.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/home.html.orig",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/polls/templates/home_empresa.html",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy/manage.py",
+		"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si_cenario/si_cenario/settings.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/admin.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/cadastra_cargo.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/si_cenario/urls.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/projeto_cadastrar.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/forms.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/perfil_usuario.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/lista_usuario.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/cadastra_usuario.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/projeto_perfil.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/models.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/projeto_lista.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/views.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/base.html",
+		"/Users/felipemoran/Downloads/matrusp.json",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/cadastra_nucleo.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/teste.html",
+		"/Users/felipemoran/Desktop/Projetos/si-gauss/polls/templates/cadastrar_empresa.html",
+		"/Users/felipemoran/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/felipemoran/Downloads/si_cenario-master/si_cenario/urls.py",
+		"/Users/felipemoran/Downloads/si_cenario-master/sistema/admin.py",
+		"/Users/felipemoran/Downloads/si_cenario-master/sistema/forms.py",
+		"/Users/felipemoran/Downloads/si_cenario-master/sistema/models.py",
+		"/Users/felipemoran/Downloads/si_cenario-master/sistema/views.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/models.py",
+		"/Users/felipemoran/Desktop/Projetos/si-gauss/mysite/urls.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/tests.py",
+		"/Users/felipemoran/Desktop/Projetos/si-gauss/locale/en/LC_MESSAGES/django.po",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/templates/projeto_crud.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/sistema/templates/home.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/manage.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/si_cenario/settings.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario/si_cenario/wsgi.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/templates/base.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/templates/teste.html",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/views.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/si_cenario/settings.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/si_cenario/urls.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/admin.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/forms.py",
+		"/Users/felipemoran/Desktop/Projetos/si_cenario_cola/sistema/templates/home.html",
+		"/Users/felipemoran/Desktop/Projetos/si-gauss/polls/views.py",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/1-Sublime/2-emmet.txt",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/1-Sublime/teste.py",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/2-Django-Git/treinamento/treinamento/settings.py",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/2-Django-Git/treinamento/sistema/templates/index.html",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/tec.sublime-project",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/2-Django-Git/treinamento/assets/css/style.css",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/2-Django-Git/treinamento/sistema/admin.py",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/1-Sublime/1-Sublime.txt",
+		"/Users/felipemoran/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/felipemoran/Desktop/Projetos/treinamento_nishi/tec/1-Sublime/3-Anaconda.txt",
+		"/Volumes/Files/Media/Photos/Marina Presidente/candidatura marina.txt",
+		"/Users/felipemoran/Desktop/Quotes.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/HDD/felipemoran/Desktop/Projetos/si-gauss",
+			"/Volumes/HDD/felipemoran/Desktop/Projetos/anish_realtime/",
+			"/Volumes/Machintosh HD/felipemoran/Desktop/Projetos/si-gauss-deploy",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function ",
+			"function",
+			"MLaboratorio_pesquisador",
+			"felipe",
+			"return",
+			"redireciona",
+			"user",
+			"handshakeData",
+			"sessionid = request.session.session_key",
+			"session_key",
+			"session",
+			"blá",
+			"HttpResponseServerError",
+			"HttoResponseServerError",
+			"----3-----",
+			"3",
+			"-------",
+			"----",
+			"reponse",
+			"http://",
+			"example",
+			"UTF",
+			"UTF-8",
+			"deral",
+			"access",
+			"response =",
+			"origin",
+			"emit",
+			"post",
+			"options =",
+			"localhost",
+			"locale",
+			"current_path",
+			"<!",
+			"        <script src=\"/static/js/jquery-1.11.1.min.js\"></script>\n",
+			"if pesquisador_form.is",
+			"unique",
+			"email",
+			"is_valid",
+			"email",
+			"login",
+			"print dados_separados",
+			"print",
+			"dados_separados[2]",
+			"AJAX",
+			"evento.id",
+			"decode",
+			"input-muito-migue",
+			"decode",
+			"ajax\"",
+			"dados_separados",
+			"adicionando evento de dia todo",
+			"publicidade.imagem",
+			"static/{",
+			"static",
+			"cadastra_cargo",
+			"cargo",
+			"cadastra_cargo",
+			"cargo",
+			"projeto_perfil",
+			"location.replace",
+			"location.re",
+			"%s",
+			"projeto_perfil",
+			"perfil",
+			"/",
+			"//",
+			"img/",
+			"css/",
+			"js/",
+			"jquery",
+			"pessoa",
+			"script",
+			"/js/",
+			"jquery",
+			"uni",
+			"default='ERRADO'",
+			"td",
+			"static/",
+			"img/",
+			"js/",
+			"css/",
+			"csrf_",
+			"return",
+			"ajax",
+			"post",
+			"ctrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"chat_key = request.user.pesquisador.chat_key",
+			"response",
+			"AJAX!",
+			"/static/img/",
+			"/static/css/",
+			"/static/js/",
+			"th",
+			"/static/",
+			"static/img/",
+			"static/js/",
+			"static/css/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sistema/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "si_webservice.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"templa",
+				"2-Django-Git/treinamento/sistema/templates/index.html"
+			],
+			[
+				"sett",
+				"2-Django-Git/treinamento/treinamento/settings.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
